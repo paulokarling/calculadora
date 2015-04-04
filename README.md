@@ -1,4 +1,3 @@
-# calculadora
 Projeto da calculadora
 ======================
 
